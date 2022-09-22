@@ -1,8 +1,8 @@
 package main
 
 import (
-	"go-gin-crud/handlers"
-	"go-gin-crud/services"
+	"github.com/gr0620/go-gin-crud/handlers"
+	"github.com/gr0620/go-gin-crud/services"
 
 	
 )

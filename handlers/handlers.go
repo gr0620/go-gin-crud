@@ -1,8 +1,8 @@
 package handlers
 
 import (
-	"go-gin-crud/domain"
-	"go-gin-crud/services"
+	"github.com/gr0620/go-gin-crud/domain"
+	"github.com/gr0620/go-gin-crud/services"
 	"net/http"
 
 

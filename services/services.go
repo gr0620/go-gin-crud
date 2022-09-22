@@ -1,8 +1,8 @@
 package services
 
 import (
-	"go-gin-crud/domain"
-	"go-gin-crud/repository"
+	"github.com/gr0620/go-gin-crud/domain"
+	"github.com/gr0620/go-gin-crud/repository"
 	"github.com/google/uuid"
 )
 
